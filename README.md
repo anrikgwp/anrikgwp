@@ -9,8 +9,4 @@ anrikgwp/anrikgwp is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=anrikgwp/WPLogOutputer&type=Date)](https://star-history.com/#anrikgwp/WPLogOutputer&Date)
