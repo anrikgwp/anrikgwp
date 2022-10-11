@@ -10,4 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-https://star-history.com/#bytebase/star-history&Date
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+
